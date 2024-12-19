@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/09b2692a-c152-4230-9bdc-8dd68905ebef
 > - IAM Role, S3 접근 권한 설정
 
 > [!NOTE]
-> 이제 ai개발자께서 피부질환 예측 모델을 학습시켜 최신 pth 포맷 파일을 전달받을때마다 다음 과정을 반복합니다.
+> 이제 AI 개발자께서 피부질환 예측 모델을 학습시켜 최신 pth 포맷 파일을 전달해 주실 때마다 다음 과정을 반복합니다.
 > 
 > ### 1. 모델 아티팩트 압축 후 S3 업로드
 > ### 2. PyTorchModel 객체 생성
