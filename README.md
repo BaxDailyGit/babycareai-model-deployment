@@ -18,6 +18,31 @@ https://github.com/user-attachments/assets/09b2692a-c152-4230-9bdc-8dd68905ebef
 
 <br>
 
+# 팀원 구성
+<table style="width: 100%;">
+<tr>
+    <td align="center" style="width: 49%;"><img src="https://github.com/user-attachments/assets/31670ccd-0bdb-4697-bfc4-7962e7e01e69" width="130px;" alt=""></a></td>
+    <td align="center" style="width: 49%;"><img src="https://avatars.githubusercontent.com/u/65113282?v=4" width="130px;" alt=""></a></td>
+    <td align="center" style="width: 49%;"><img src="https://avatars.githubusercontent.com/u/108132550?v=4" width="130px;" alt=""></a></td>
+    <td align="center" style="width: 49%;"><img src="https://avatars.githubusercontent.com/u/99312529?v=4" width="130px;" alt=""></a></td>
+    <td align="center" style="width: 49%;"><img src="https://avatars.githubusercontent.com/u/59814042?v=4" width="130px;" alt=""></a></td>
+</tr>
+<tr>
+    <td align="center"><b>김민지</b></a></td>
+    <td align="center"><a href="https://github.com/eundoobidoobab"><b>조은수</b></a></td>
+    <td align="center"><a href="https://github.com/hanjh193"><b>한재현</b></a></td>
+    <td align="center"><a href="https://github.com/BaxDailyGit"><b>백승진</b></a></td>
+    <td align="center"><a href="https://github.com/gustn1029"><b>김현수</b></a></td>
+</tr>
+<tr>
+    <td align="center">기획자</td>
+    <td align="center">기획자</td>
+    <td align="center">AI 개발자</td>
+    <td align="center">백엔드 개발자</td>
+    <td align="center">프론트엔드 개발자</td>
+</tr>
+</table>
+
 # 시스템 아키텍처
 ![image](https://github.com/user-attachments/assets/326d5366-600b-4e24-a440-593697053262)
 
