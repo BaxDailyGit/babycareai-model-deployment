@@ -10,7 +10,7 @@ import os
 import timm
 
 # Class mapping
-class_dict = {0: '수두', 1: '수족구', 2: '아토피', 3: '대상포진'}
+class_dict = {0: 'Chickenpox', 1: 'HFMD', 2: 'atopic', 3: 'shingles'}
 
 def model_fn(model_dir):
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
